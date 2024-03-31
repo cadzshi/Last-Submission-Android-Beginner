@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">KibordKu</string>
+
+    <string name="keyboard_name">Nama Keyboard</string>
+    <string name="description">Deskripsi</string>
+    <string name="keyboard_price">Harga Keyboard</string>
+
+    <string-array name="data_name">
+        <item>XINMENG M71 V2 Aluminum Mechanical Keyboard</item>
+        <item>LEOBOG Hi75 Wired Mechanical Keyboard</item>
+        <item>Feker Alice80 Full Build Gasket Mechanical Keyboard</item>
+        <item>Thunderobot Zero75 Three Mode Hotswap Mechanical Keyboard</item>
+        <item>ROYAL KLUDGE RK S98 3-mode Wireless LED ScreenMechanical </item>
+        <item>AULA F99 3-Mode Gasket Mount Hotswappable Mechanical</item>
+        <item>ROVER84 Lightyear Edition Wireless CNC Aluminium Mechanical Keyboard</item>
+        <item>Keychron Q1 QMK Custom Mechanical Keyboard FULLY ASSEMBLED</item>
+        <item>Steelseries Apex Pro TKL Wireless 2023 - OmniPoint 2.0 Gaming Keyboard</item>
+        <item>CIDOO V75 PLUS Barebone 75% LED Hotswappable Mechanical Keyboard</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>65% Layout, PBT Keycaps, 3-Mode Connection, Battery 4600mAh, XINMENG V2 Satellite Stabilizer, Gasket Mounting, RGB Backlight, Hotswappable Universal 5 pin, Poron Plate Foam, IXPE Switch Pad, Poron Case Foam, Polycarbonate Plate, Alumunium CNC Case Material, Jade White Linear Switch</item>
+        <item>75% Layout, Gasket Mounting, Alumunium Material Case, RGB Backlight, South-facing LED, NKRO in All Keys, USB Type-C Wired, Cherry Profile, Ashwood V3 Linear Switch, Hotswappable Universal 5 pin</item>
+        <item>80 keys Alice layout + rotary knob, Polycarbonate housing, Hot swappable, South Facing RGB, PC Plate, USB Type-C Wired, dye sub PBT keycaps, Marble White Switch</item>
+        <item>75 % Layout, PC Cherry Profile, Battery 4000mAh, 3-mode Connection, RGB Backlight, Tuned Stabilizer, Hotswappable Universal 5 pin</item>
+        <item>98 % Layout, PBT Cherry Profile Keycaps, Battery 3750 mAh, 3-mode Connection, Full 16.8 Million color RGB Backlight, Tuned RK Stabilizer, Hotswappable Universal 5 pin, Top Mounting, RK Cloud Switch</item>
+        <item>99 % Layout, Gasket Mounted Structure Design, Battery 8000 mAh, 3-mode Connection, Dual-Tone PBT Material Keycaps, Finely-Tuned Stabilizers, Factory-Lubed Mechanical Switches, Dual-Stage Adjustable Feet, Ultra-Low Latency Performance With Stable Connection</item>
+        <item>Expanded 75% - 81 keys layout, Full CNC aluminium body, Media knob, 3-mode Connection, PBT Doubleshot Cherry Profile Keycaps, Quark Matte Linear Switch, Customizable keymap and Lighting with VIA, Universal hotswappable 3/5 pin PCB, South-Facing, Poron Gasket Mount, Flex Cut Polycarbonate Plate, Screw-in stabilizer, Pre-installed plate + case foam + anti-static foam
+              Pre-installed switch pads</item>
+        <item>Body Material Full CNC machined aluminum, Plate Aluminum, Keycaps Double-shot ABS keycaps (not shine-through), Switches Gateron G Phantom, Backlight South-facing RGB LED, Hotswappable Universal 5 pin, Stabs Gateron screw-in PCB stabs, Connectivity Type-C cable, Cable Premium coiled aviator Type-C cable + Type-A to Type-C adapter</item>
+        <item>OmniPoint 2.0 Adjustable HyperMagnetic Switches (Analog Hall Effect Magnetic Sensor), Guaranteed 100 Million Presses, 5 Custom Profiles On-Board Memory, 32 bit ARM Processor, Adjustable Actuation Points (0.1 mm - 4.0 mm), 3-mode Connection, 0.7ms Response Time, Battery Life ( 37.5 hours - Wireless / 45 hours - Bluetooth with default lighting)</item>
+        <item>Barebone Only, Win/MacOS Compatible, LED display (customizable), 3-mode Connection, Gasket mounting, Case aluminium CNC, PCBA screw-in stabilizers, Plate polycarbonate flex-cut, PORON Foam + IXPE Switch pads, 3000mAh Battery, Iclude Type-C Braided Cable, Compatible with VIA</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>Rp999.000</item>
+        <item>Rp1.049.000</item>
+        <item>Rp899.000</item>
+        <item>Rp749.000</item>
+        <item>Rp1.279.000</item>
+        <item>Rp999.000</item>
+        <item>Rp1.749.000</item>
+        <item>Rp2.700.000</item>
+        <item>Rp4.650.000</item>
+        <item>Rp1.549.000</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/xinmeng</item>
+        <item>@drawable/leobog</item>
+        <item>@drawable/alice</item>
+        <item>@drawable/zero</item>
+        <item>@drawable/royalkludge</item>
+        <item>@drawable/aula</item>
+        <item>@drawable/pressplay</item>
+        <item>@drawable/keychron</item>
+        <item>@drawable/steelseries</item>
+        <item>@drawable/cidoo</item>
+    </string-array>
+
+
+    <string name="list">List</string>
+    <string name="about">About Me</string>
+    <string name="detail">Detail</string>
+
+    <string name="about_me">About Me</string>
+    <string name="my_name">Sabila Rosad</string>
+    <string name="my_email">sabilarosad76@gmail.com</string>
+    <string name="spesifikasi">Spesifikasi</string>
+
+
+</resources>
